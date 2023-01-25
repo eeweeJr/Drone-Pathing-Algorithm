@@ -1,5 +1,6 @@
 # Drone-Pathing-Algorithm
-Java based large coursework practical in java
+Java based large coursework practical in java. 
+Produces a pathfinding drone algorithm following a set of orders and map locations, would work for any given area. 
 
 
 Provided in the zipped file is everything required to run the algorthm following a certain conditions,
